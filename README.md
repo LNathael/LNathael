@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lnathael&label=Profile%20views&color=0e75b6&style=flat" alt="lnathael" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lnathael" alt="lnathael" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://portfolio-bon.vercel.app/](https://portfolio-bon.vercel.app/)
 
