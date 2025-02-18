@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Nathaël Le Bihan</h1>
 <h3 align="center">A passionate Fullstack Developer from France</h3>
