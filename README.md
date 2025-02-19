@@ -17,8 +17,8 @@
 ## 💡 About Me
 
 - 🎓 **BTS SIO Student** specialized in web development
-- 🚀 Passionate about **backend development, AI in medicine, and automation**
-- 🌱 Currently working on **Spring Batch projects** & exploring **AI in medical diagnostics**
+- 🚀 Passionate about **backend development**
+- 🌱 Currently working on **Spring Batch projects** 
 - 📫 Reach me at **nathael.lebihan12102005@gmail.com**
 - ⚡ Fun fact: I lift weights and code between sets! 💪💻
 
